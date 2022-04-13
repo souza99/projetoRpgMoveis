@@ -4,7 +4,7 @@ import 'package:exercicosflutterfuncoes/exercicosflutterfuncoes.dart'
 import 'package:exercicosflutterfuncoes/exemplosDoProfessor.dart'
     as salarioPositivoSimNao;
 
-import 'package:exercicosflutterfuncoes/MeuProjeto/sem_parametro_sem_retorno.dart'
+import 'package:exercicosflutterfuncoes/MeuProjeto/1_sem_parametro_sem_retorno.dart'
     as calculoDeVidaRpg;
 
 void main(List<String> arguments) {
